@@ -1,0 +1,1 @@
+very simple port scanner which tells you what ports are open on a certain ip address, which is given into the cli as an argument (first argument)
